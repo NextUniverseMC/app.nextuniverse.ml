@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ml.nextuniverse.apps.android",
+    "sha256_cert_fingerprints":
+    ["91:A2:26:EF:06:24:AB:AA:2E:C3:18:51:48:61:C9:50:54:92:AB:1A:9A:51:14:55:0E:15:1D:69:39:F9:88:13"]
+  }
+}]
